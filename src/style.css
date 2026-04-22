@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@media (min-width: 640px) {
+  .sm\:text-center {
+    text-align: center;
+  }
+}
